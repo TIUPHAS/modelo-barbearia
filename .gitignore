@@ -1,0 +1,17 @@
+# sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editor
+.idea/
+
+# fotos originais dos clientes (pesadas e nem sempre com uso autorizado)
+fotos/originais/
+*.psd
+*.ai
+
+# rascunhos
+*.bak
+*.tmp
+rascunho-*
